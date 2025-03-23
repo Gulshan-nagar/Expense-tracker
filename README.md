@@ -10,12 +10,6 @@ Fullstack (Frontend + Backend)
 
 Deployed App
 
-Frontend: https://your-frontend-url.com
-
-Backend: https://your-backend-url.com
-
-Database: https://your-database-url.com
-
 Directory Structure
 
 expense-tracker/
